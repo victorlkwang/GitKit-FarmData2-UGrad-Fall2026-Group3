@@ -45,7 +45,7 @@ FarmData2 has been used in a number of undergraduate computer science courses an
 
 The activities will guide you from an introduction to FOSS and FarmData2, through installation of FarmData2 and then through the use of each of the key technologies used in FarmData2. Each activity includes practice using the technologies within the context of FarmData2. Thus, you'll learn not only the technologies, but will get comfortable working within the FarmData2 developer environment as well.
 
-If you use these activities, please keep in mind that they were created for use as assignments in courses. Thus, you shouldn't feel obligated to answer every question and you should skip over any class specific parts that don't make sense outside of a course. When you have completed all of the activities you'll be well on your way to being a FarmData2 developer.  In addition, while these activites will be updated as FarmData2 evolves, they may not be fully in synch with the latest code in the repository.  If you run in to any issues, use the 
+If you use these activities, please keep in mind that they were created for use as assignments in courses. Thus, you shouldn't feel obligated to answer every question and you should skip over any class specific parts that don't make sense outside of a course. When you have completed all of the activities you'll be well on your way to being a FarmData2 developer.  In addition, while these activities will be updated as FarmData2 evolves, they may not be fully in synch with the latest code in the repository.  If you run in to any issues, use the 
 
 - 01 - Introduction to FOSS & The FarmData2 Community [ [docx](media/Activities/01-IntroToFarmData2.docx) | [pdf](media/Activities/01-IntroToFarmData2.pdf) ]
 - 02 - FarmData2 Developer Install [ [docx](media/Activities/02-DeveloperInstall.docx) | [pdf](media/Activities/02-DeveloperInstall.pdf) ]
@@ -164,7 +164,7 @@ The Cypress end-to-end test framework works by controlling the web browser. A te
 
   - Resources
     - [Introduction to Cypress](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html): As the docs say... "the single most important guide for understanding how to test with Cypress. Read it. Understand it."
-    - [Writing Your First Test](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Add-a-test-file): A good overview of how a typical cypres test work, what the code looks like and how to use the cypress test runner.
+    - [Writing Your First Test](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Add-a-test-file): A good overview of how a typical cypress test works, what the code looks like and how to use the cypress test runner.
     - [Selecting Elements](https://docs.cypress.io/guides/references/best-practices.html#Selecting-Elements): Best practices for selecting elements that are manipulated and checked by your tests. Following these will make you tests less brittle.
     - [Selector Playground](https://docs.cypress.io/guides/core-concepts/test-runner.html#Selector-Playground): A tool within the cypress test runner that will help you find good selectors to use for the elements used in your tests.
     - [Interacting with Elements](https://docs.cypress.io/guides/core-concepts/interacting-with-elements): The main commands in cypress for interacting with elements in the page (e.g. click, select, etc.)
@@ -221,4 +221,4 @@ farmOS runs on top of Drupal. From the FarmData2 perspective this is largely tra
 
 #### drush ####
 
-For a few particular tasks related to initializtion and configuration FarmData2 makes use of [drush](https://www.drush.org/latest/) to interact with the Drupal instance on which farmOS is running. As it is discovered that more information is necessary it will be added here.
+For a few particular tasks related to initialization and configuration FarmData2 makes use of [drush](https://www.drush.org/latest/) to interact with the Drupal instance on which farmOS is running. As it is discovered that more information is necessary it will be added here.
